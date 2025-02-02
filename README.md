@@ -24,4 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krish19dixit&show_icons=true&locale=en&layout=compact" alt="krish19dixit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krish19dixit&show_icons=true&locale=en" alt="krish19dixit" /></p>
+
